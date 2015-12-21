@@ -1,7 +1,7 @@
 name: Guivemetunes
 favicon: null
-layout_spectrum: 0.9382979
-typography_spectrum: 0.2404255
+layout_spectrum: 0.23038
+typography_spectrum: 0.24377
 title: 'Vibes, beats and tunes'
 cta:
   domain: null
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#000000'
+    - '#616161'
+    - '#fefefe'
+    - '#979cce'
+    - '#c0c4ec'
   brandStrength: 0.3125
   lightness: 0.2617021
   saturation: 0.6319149
